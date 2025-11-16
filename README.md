@@ -11,5 +11,12 @@ Ich will diese Lernperiode mithilfe von n8n und weiteren Programmen eine mini CR
 
 Ich konnte ein n8n projekt starten und dieses mit Google Sheets verbinden. (local Variabel) Anfangs hatte ich Probleme den Key auf der Google Sheets Seite zu finden doch später bin ich zufällig darauf gestossen.
 
-- [ ] n8n mit Telegram verbinden
-- [ ] Website mit neuen Kenntnissen erweitern
+## 14.11.2025
+
+- [x] n8n mit Telegram verbinden
+- [x] Website mit neuen Kenntnissen erweitern
+
+## 21.11.2025
+
+- [ ] ngrox nutzen um mit Telegram und n8n zu kommunizieren
+- [ ] Telegram Bot aufsetzen
