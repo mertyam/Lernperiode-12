@@ -18,5 +18,19 @@ Ich konnte ein n8n projekt starten und dieses mit Google Sheets verbinden. (loca
 
 ## 21.11.2025
 
-- [ ] ngrox nutzen um mit Telegram und n8n zu kommunizieren
-- [ ] Telegram Bot aufsetzen
+- [x] ngrox nutzen um mit Telegram und n8n zu kommunizieren
+- [x] Telegram Bot aufsetzen
+
+Es hat alles funktioniert so wie gewollt. Leider kann ich den Workflow nicht die ganze Zeit laufen lassen weil der ngrox Gateaway auch nicht ohne ein Abonoment läuft.
+
+## 28.11.2025
+
+- [x] Bewerbungen schreiben
+- [x] n8n Workflow einrichten um 1 Durchgang starten zu könnrn
+
+Ich konnte den Workflow so ergänzen das alles was ich bis jezzt amgeschaut habr zusammrnarbeitet. ich musstr auch ein bisschrn Coden.
+
+## 05.12.2025
+
+- [ ] Letzte Fehler beheben Workflow (schreibt nucht richtig in das Google Sheet)
+- [ ] Logik des Codes verbessern/ergänzen
