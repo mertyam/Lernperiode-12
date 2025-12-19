@@ -32,5 +32,17 @@ Ich konnte den Workflow so ergänzen das alles was ich bis jezzt amgeschaut habr
 
 ## 05.12.2025
 
-- [ ] Letzte Fehler beheben Workflow (schreibt nucht richtig in das Google Sheet)
-- [ ] Logik des Codes verbessern/ergänzen
+- [x] Letzte Fehler beheben Workflow (schreibt nucht richtig in das Google Sheet)
+- [x] Logik des Codes verbessern/ergänzen
+
+## 12.12.2025
+
+Forschungsprojekt
+
+## 19.12.2025
+
+- [x] Bewerbung schreiben
+- [x] Persönliche Website angepasst
+
+## Reflexion
+Ich konnte diese Lernperiode mit n8n arbeiten wie ich es mir vorgenommen habe. Ich habe vieles was ich nur theoretisch konnte mal versuchen umzusetzten. Es gab nur kleine Probleme die aber schnell zu beheben waren. Insgesamt war diese Lernperiode sehr gut und ich will in der nächsten mich auf mehr Coding-Projekte fokussieren. Ich will genau so in der nächsten Periode auch das sogennante "Vibe-Coding" ausprobieren.
